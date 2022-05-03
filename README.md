@@ -1,1 +1,2 @@
-# Hotel-Management-Program
+# 20년도 2학년 2학기 객체지향 프로그래밍II
+<h2 align=left>2분반 8조 호텔관리시스템 프로젝트</h2>
